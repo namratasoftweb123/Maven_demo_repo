@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test suite">
+    <test name="Demo Maven">
+    <classes>
+        <class name="SignInTC.SignInTest"></class>
+        <class name="HomePageTC.HomePageTest"></class>
+    </classes>
+
+    </test>
+</suite>
